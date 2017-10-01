@@ -519,6 +519,13 @@
  			"category": "Colorful,Custom Wallz,Dark"
 	        },
 	  {
+		        "author": "Designed by Krapk",
+		        "url": "https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
+		        "thumbUrl": "https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
+		        "name": "AEX-N Default",
+		        "category": "Dark"
+	        },
+	  {
 			"author": "Designed by ElDainosor",
 			"url": "http://i.imgur.com/CXN1yi9.jpg",
 			"thumbUrl": "http://i.imgur.com/yCB6Tb6.jpg",
