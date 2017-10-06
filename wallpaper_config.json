@@ -545,6 +545,20 @@
 			"thumbUrl": "https://i.imgur.com/ttFsHul.jpg",
 			"name": "SparklingHeart",
 			"category": "Dark"
+		},
+		{
+			"author": "Designed by Impulse",
+			"url": "https://i.imgur.com/lHgiWD5.jpg",
+			"thumbUrl": "https://i.imgur.com/lHgiWD5.jpg",
+			"name": "Code_Extended",
+			"category": "Other"
+		},
+		{
+			"author": "Designed by Impulse",
+			"url": "https://i.imgur.com/Ya4Exuu.jpg",
+			"thumbUrl": "https://i.imgur.com/Ya4Exuu.jpg",
+			"name": "TheRising",
+			"category": "Other"
 		}
 	]
 }
