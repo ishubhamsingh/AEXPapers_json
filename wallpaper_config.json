@@ -522,14 +522,14 @@
 		        "author": "Designed by Krapk",
 		        "url": "https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
 		        "thumbUrl": "https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
-		        "name": "AEX-N Default",
+		        "name": "AEX Nougat Default",
 		        "category": "Dark"
 	        },
 	  {
 			"author": "Designed by ElDainosor",
 			"url": "http://i.imgur.com/CXN1yi9.jpg",
 			"thumbUrl": "http://i.imgur.com/yCB6Tb6.jpg",
-			"name": "Minimalist Waves AEX",
+			"name": "AEX Minimalist Waves",
 			"category": "Colorful,Other,Dark"
 		},
 	  {
@@ -543,14 +543,14 @@
 			"author": "Designed by Impulse",
 			"url": "https://i.imgur.com/lHgiWD5.jpg",
 			"thumbUrl": "https://i.imgur.com/lHgiWD5.jpg",
-			"name": "Code_Extended",
+			"name": "Code Extended",
 			"category": "Other"
 		},
 		{
 			"author": "Captured/Edited by Anuj Triathi/Impulse",
 			"url": "https://i.imgur.com/wv8u2tf.jpg",
 			"thumbUrl": "https://i.imgur.com/wv8u2tf.jpg",
-			"name": "Code_Extended",
+			"name": "Code Extended X",
 			"category": "Other"
 		},
 		{
@@ -575,25 +575,25 @@
 			{ "author": "Designed by Custom Wallz",
 				"url": "http://i.imgur.com/C14K2Xn.png",
 				"thumbUrl": "http://i.imgur.com/C14K2Xn.png",
-				"name": "AEX #2 by Unfunny Guy",
+				"name": "AEX Yellow Stripes 2 by Unfunny Guy",
 				"category": "Custom Wallz,Dark,Colorful"
 			},
 			{ "author": "Designed by Custom Wallz",
 				"url": "http://i.imgur.com/lweW16i.png",
 				"thumbUrl": "http://i.imgur.com/lweW16i.png",
-				"name": "AEX__sex_ by Unfunny Guy",
+				"name": "AEX S** by Unfunny Guy",
 				"category": "Custom Wallz,Dark"
 			},
 			{ "author": "Designed by Custom Wallz",
 				"url": "http://i.imgur.com/uTMD0M2.png",
 				"thumbUrl": "http://i.imgur.com/uTMD0M2.png",
-				"name": "AEX___ by Unfunny Guy",
+				"name": "AEX S** 2 by Unfunny Guy",
 				"category": "Custom Wallz,Dark"
 			},
 			{ "author": "Designed by Custom Wallz",
 				"url": "http://i.imgur.com/aPQr4IZ.png",
 				"thumbUrl": "http://i.imgur.com/aPQr4IZ.png",
-				"name": "AEX MAT by Unfunny Guy",
+				"name": "AEX Mat by Unfunny Guy",
 				"category": "Custom Wallz,Colorful"
 			},
 			{ "author": "Designed by Custom Wallz",
@@ -611,7 +611,7 @@
 			{ "author": "Designed by Custom Wallz",
 				"url": "http://i.imgur.com/6wiC5xu.png",
 				"thumbUrl": "http://i.imgur.com/6wiC5xu.png",
-				"name": "AEX Dark #2 by Savio",
+				"name": "AEX Dark 2 by Savio",
 				"category": "Custom Wallz,Colorful,Dark"
 			}
 	]
