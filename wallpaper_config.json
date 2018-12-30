@@ -1,747 +1,894 @@
 {
-	"Categories": [{
-			"name": "Light"
-		},
-		{
-			"name": "Dark"
-		},
-		{
-			"name": "Colorful"
-		},
-		{
-			"name": "SciFi"
-		},
-		{
-			"name": "Customworx"
-		},
-	  {
-			"name": "Custom Wallz"
-		},
-		{
-			"name": "Material"
-		},
-		{
-			"name": "Poly"
-		},
-		{
-			"name": "Other"
-		}
-	],
-
-	"Wallpapers": [
-		{
-			"author": "Designed by Krapk",
-			"url": "https://i.imgur.com/zp6BVMw.jpg",
-			"thumbUrl": "https://i.imgur.com/zp6BVMw.jpg",
-			"name": "Rocket",
-			"category": "SciFi,Colorful"
-		},
-		{
-			"author": "Designed by Adithya Jayan",
-			"url": "https://i.imgur.com/ac3XS3A.jpg",
-			"thumbUrl": "https://i.imgur.com/ac3XS3A.jpg",
-			"name": "Energy Blue",
-			"category": "Material"
-		},
-		{
-			"author": "Designed by Adithya Jayan",
-			"url": "https://i.imgur.com/HwgvVJs.jpg",
-			"thumbUrl": "https://i.imgur.com/HwgvVJs.jpg",
-			"name": "Energy Green",
-			"category": "Material"
-		},
-		{
-			"author": "Designed by Adithya Jayan",
-			"url": "https://i.imgur.com/pw1HrfR.jpg",
-			"thumbUrl": "https://i.imgur.com/pw1HrfR.jpg",
-			"name": "Energy Yellow",
-			"category": "Material"
-		},
-		{
-			"author": "Designed by Adithya Jayan",
-			"url": "https://i.imgur.com/gPCVPGJ.jpg",
-			"thumbUrl": "https://i.imgur.com/gPCVPGJ.jpg",
-			"name": "Energy Red",
-			"category": "Material"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/2SSzDG5.jpg",
-			"thumbUrl": "https://i.imgur.com/czjq5NN.png",
-			"name": "AEX Poly 7",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/LMqcmKr.jpg",
-			"thumbUrl": "https://i.imgur.com/Vg4oNWm.png",
-			"name": "AEX Poly 6",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/HAUDYhU.jpg",
-			"thumbUrl": "https://i.imgur.com/dfHcfay.png",
-			"name": "AEX Poly 5",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/gIiwCqg.jpg",
-			"thumbUrl": "https://i.imgur.com/wMsQL6P.png",
-			"name": "AEX Poly 4",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/h4Qnv5V.jpg",
-			"thumbUrl": "https://i.imgur.com/UIlmhnI.png",
-			"name": "AEX Poly 3",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/3dmT821.jpg",
-			"thumbUrl": "https://i.imgur.com/rBOMiFo.png",
-			"name": "AEX Poly 2",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/WO3vfxi.jpg",
-			"thumbUrl": "https://i.imgur.com/NBEqMIc.png",
-			"name": "AEX Poly",
-			"category": "Poly,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/P6zFHsX.png",
-			"thumbUrl": "https://i.imgur.com/Qf5uKCj.png",
-			"name": "AEX Grains 6",
-			"category": "Dark,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/5lBZdqO.png",
-			"thumbUrl": "https://i.imgur.com/QNQWe22.png",
-			"name": "AEX Grains 5",
-			"category": "Dark,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/5iY7EvI.png",
-			"thumbUrl": "https://i.imgur.com/OZdNrZX.png",
-			"name": "AEX Grains 4",
-			"category": "Dark,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/4QLZAXs.png",
-			"thumbUrl": "https://i.imgur.com/0VKto8H.png",
-			"name": "AEX Grains 3",
-			"category": "Dark,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/EFIznoEg.png",
-			"thumbUrl": "https://i.imgur.com/ngop8tY.png",
-			"name": "AEX Grains 2",
-			"category": "Dark,Customworx"
-		},
-		{
-			"author": "Designed by Customworx",
-			"url": "https://i.imgur.com/FHECAx5.png",
-			"thumbUrl": "https://i.imgur.com/IlrLfHf.png",
-			"name": "AEX Grains",
-			"category": "Light,Customworx"
-		},
-		{
-			"author": "Designed by Efren Rodriguez",
-			"url": "https://i.imgur.com/QgJWVtT.jpg",
-			"thumbUrl": "https://i.imgur.com/EgByOwm.jpg",
-			"name": "Material Blue",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Efren Rodriguez",
-			"url": "https://i.imgur.com/rPdvh8L.jpg",
-			"thumbUrl": "https://i.imgur.com/W6zqaqp.jpg",
-			"name": "Material Green",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Efren Rodriguez",
-			"url": "https://i.imgur.com/XRdMttz.jpg",
-			"thumbUrl": "https://i.imgur.com/jaWoQGC.jpg",
-			"name": "Material Red",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/jN4vCvU.png",
-			"thumbUrl": "https://i.imgur.com/swba6KE.png",
-			"name": "Violet Glaze",
-			"category": "Colorful,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/TESuw98.png",
-			"thumbUrl": "https://i.imgur.com/TqxkuHb.png",
-			"name": "Black Glaze",
-			"category": "Colorful,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/REvmhw7.png",
-			"thumbUrl": "https://i.imgur.com/FMNqTB7.png",
-			"name": "Green Glaze",
-			"category": "Colorful,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/Hz60zzX.png",
-			"thumbUrl": "https://i.imgur.com/8whRKmF.png",
-			"name": "Blue Glaze",
-			"category": "Colorful,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/aibjtVr.png",
-			"thumbUrl": "https://i.imgur.com/8GOECcy.png",
-			"name": "Red Glaze",
-			"category": "Colorful,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/VFqB2Jn.png",
-			"thumbUrl": "https://i.imgur.com/grdp4nT.png",
-			"name": "Purple Glaze",
-			"category": "Colorful,Dark"
-		},
-		{
-			"author": "Designed by Rogerio Oliveira",
-			"url": "https://i.imgur.com/KkoJuCX.jpg",
-			"thumbUrl": "https://i.imgur.com/at36Ule.jpg",
-			"name": "Translucent Glass",
-			"category": "Other"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/hG67IUW.jpg",
-			"thumbUrl": "https://i.imgur.com/2yLtMBR.jpg",
-			"name": "Neon Bubbles Black",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/0TfIcaH.jpg",
-			"thumbUrl": "https://i.imgur.com/zUAkpQS.jpg",
-			"name": "Neon Bubbles Gray",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Bad Boy",
-			"url": "https://i.imgur.com/SyY3gEa.png",
-			"thumbUrl": "https://i.imgur.com/SyY3gEa.png",
-			"name": "Material Blue",
-			"category": "Material,Colorful"
-		},
-		{
-			"author": "Designed by Gabriel Bercelli",
-			"url": "https://i.imgur.com/oDKlOEQ.jpg",
-			"thumbUrl": "https://i.imgur.com/RPgYoow.jpg",
-			"name": "Material Park",
-			"category": "Material,Colorful"
-		},
-		{
-			"author": "Designed by Gabriel Bercelli",
-			"url": "https://i.imgur.com/F9lcjcn.png",
-			"thumbUrl": "https://i.imgur.com/hBCt6ds.png",
-			"name": "Bubbles",
-			"category": "Colorful"
-		},
-		{
-			"author": "Designed by Gabriel Bercelli",
-			"url": "https://i.imgur.com/DsAQI2x.png",
-			"thumbUrl": "https://i.imgur.com/Al1ipUF.png",
-			"name": "Moon",
-			"category": "Dark,SciFi"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/EQuFOK7.png",
-			"thumbUrl": "https://i.imgur.com/bKp5LeN.png",
-			"name": "Day",
-			"category": "Light"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/C6n94QW.png",
-			"thumbUrl": "https://i.imgur.com/UeSHEdP.png",
-			"name": "PC",
-			"category": "Colorful,SciFi"
-		},
-		{
-			"author": "Designed by Krapk",
-			"url": "https://i.imgur.com/7B9IOEy.png",
-			"thumbUrl": "https://i.imgur.com/7b3dekf.png",
-			"name": "Pitch Black",
-			"category": "Dark,Material"
-		},
-		{
-			"author": "Designed by Gabriel Bercelli",
-			"url": "https://i.imgur.com/aXy9xEH.png",
-			"thumbUrl": "https://i.imgur.com/Ccpy7Th.png",
-			"name": "Starwars",
-			"category": "SciFi,Light"
-		},
-		{
-			"author": "Designed by Krapk",
-			"url": "https://i.imgur.com/gKXQkoF.jpg",
-			"thumbUrl": "https://i.imgur.com/9FPQNf3.jpg",
-			"name": "Watchdog",
-			"category": "SciFi,Dark"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/CSqjiWI.png",
-			"thumbUrl": "https://i.imgur.com/W9Jt73h.png",
-			"name": "Alien",
-			"category": "SciFi,Colorful"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/QQPJHQY.jpg",
-			"thumbUrl": "https://i.imgur.com/QQPJHQY.jpg",
-			"name": "AEX Pink",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/rEQPpkD.jpg",
-			"thumbUrl": "https://i.imgur.com/rEQPpkD.jpg",
-			"name": "AEX Yellow",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/f6gS0Ke.jpg",
-			"thumbUrl": "https://i.imgur.com/f6gS0Ke.jpg",
-			"name": "AEX Red",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/7W19bs0.jpg",
-			"thumbUrl": "https://i.imgur.com/7W19bs0.jpg",
-			"name": "AEX iBlue",
-			"category": "Material,Dark"
-		},
-		{
-			"author": "Designed by Azeem Shaikh",
-			"url": "https://i.imgur.com/lpWbfut.jpg",
-			"thumbUrl": "https://i.imgur.com/lpWbfut.jpg",
-			"name": "Iron Man",
-			"category": "SciFi"
-		},
-		{
-			"author": "Designed by Bad Boy",
-			"url": "https://i.imgur.com/xhynZmh.png",
-			"thumbUrl": "https://i.imgur.com/xhynZmh.png",
-			"name": "Logo Remake Blue",
-			"category": "Colorful"
-		},
-		{
-			"author": "Designed by Bad Boy",
-			"url": "https://i.imgur.com/8paBKoN.png",
-			"thumbUrl": "https://i.imgur.com/8paBKoN.png",
-			"name": "Logo Remake Dark Red",
-			"category": "Colorful"
-		},
-		{
-			"author": "Designed by Bad Boy",
-			"url": "https://i.imgur.com/mjJAgBj.png",
-			"thumbUrl": "https://i.imgur.com/mjJAgBj.png",
-			"name": "Logo Remake Red",
-			"category": "Colorful"
-		},
-		{
-			"author": "Designed by Bad Boy",
-			"url": "https://i.imgur.com/SIHNVGp.png",
-			"thumbUrl": "https://i.imgur.com/SIHNVGp.png",
-			"name": "Logo Remake Dark Blue",
-			"category": "Colorful"
-		},
-		{
-			"author": "Designed by Hamza Badar",
-			"url": "https://i.imgur.com/KM62sO5.png",
-			"thumbUrl": "https://i.imgur.com/KM62sO5.png",
-			"name": "AEX Moon Light",
-			"category": "Dark"
-		},
-		{
-			"author": "Designed by Imam Nurcholis",
-			"url": "https://image.ibb.co/cc8uTQ/1497421690_picsay.jpg",
-			"thumbUrl": "https://image.ibb.co/cc8uTQ/1497421690_picsay.jpg",
-			"name": "AEX black n blue",
-			"category": "Dark"
-		},
-	  {
-			"author": "Designed by Bad Boy",
-			"url": "https://i.imgur.com/lFDNdpj.png",
-			"thumbUrl": "https://i.imgur.com/lFDNdpj.png",
-			"name": "Material Brown",
-			"category": "Colorful,Material"
-		},
-		{
-			"author": "Designed by Renan Lopes",
-			"url": "https://i.imgur.com/L76xfkA.png",
-			"thumbUrl": "https://i.imgur.com/nZepzfI.png",
-			"name": "German Soldier",
-			"category": "Light"
-		},
-		{
-			"author": "Designed by ishubhamsingh",
-			"url": "https://i.imgur.com/qA8wox8.png",
-			"thumbUrl": "https://i.imgur.com/73vUodT.png",
-			"name": "ArtWork",
-			"category": "Dark,Other"
-		},
-		{
-			"author": "Designed by ishubhamsingh",
-			"url": "https://image.ibb.co/mct8sa/AEX_black_red.png",
-			"thumbUrl": "https://image.ibb.co/mct8sa/AEX_black_red.png",
-			"name": "Minimal AEX",
-			"category": "Dark"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://image.ibb.co/iNOB8Q/AEX_Finals.jpg",
-			"thumbUrl": "https://image.ibb.co/iNOB8Q/AEX_Finals.jpg",
-			"name": "AEX Finals by Biplov",
-			"category": "Neon,Dark,Custom Wallz"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://image.ibb.co/ioWnhk/GLOW_ify_AEX.jpg",
-			"thumbUrl": "https://image.ibb.co/ioWnhk/GLOW_ify_AEX.jpg",
-			"name": "GLOW-ify AEX by Biplov",
-			"category": "Neon,Dark,Custom Wallz"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://image.ibb.co/m5GL2k/AEX_Neon.jpg",
-			"thumbUrl": "https://image.ibb.co/m5GL2k/AEX_Neon.jpg",
-			"name": "AEX Neon by Savio",
-			"category": "Neon,Dark,Custom Wallz"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/PM2ybbf.jpg",
-			"thumbUrl": "https://i.imgur.com/PM2ybbf.jpg",
-			"name": "Saffron Extended by Savio",
-			"category": "Colorful,Custom Wallz"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/TJYOmeW.jpg",
-			"thumbUrl": "https://i.imgur.com/TJYOmeW.jpg",
-			"name": "Blue Extended by Savio",
-			"category": "Colorful,Custom Wallz"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/PClNRIr.jpg",
-			"thumbUrl": "https://i.imgur.com/PClNRIr.jpg",
-			"name": "Green Extended by Savio",
-			"category": "Colorful,Custom Wallz"
-		},
-    {
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/7AJrnyj.jpg",
-			"thumbUrl": "https://i.imgur.com/7AJrnyj.jpg",
-			"name": "AEX xBlue 2 by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-    {
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/bnt8HY7.jpg",
-			"thumbUrl": "https://i.imgur.com/bnt8HY7.jpg",
-			"name": "AEX B&W by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/XgRXCvY.jpg",
-			"thumbUrl": "https://i.imgur.com/XgRXCvY.jpg",
-			"name": "Red Dark Stripe AEX by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-	  {
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/gK8WqAl.jpg",
-			"thumbUrl": "https://i.imgur.com/gK8WqAl.jpg",
-			"name": "AEX Dark by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-	  {
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/MMsfd7V.jpg",
-			"thumbUrl": "https://i.imgur.com/MMsfd7V.jpg",
-			"name": "AEX Dark 2 by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-	  {
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/tEdtUKT.jpg",
-			"thumbUrl": "https://i.imgur.com/tEdtUKT.jpg",
-			"name": "AEX Dark 3 by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-		{
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/SCT6N2F.jpg",
-			"thumbUrl": "https://i.imgur.com/SCT6N2F.jpg",
-			"name": "AEX xBlue by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-	  {
-			"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/dRgWMtP.jpg",
-			"thumbUrl": "https://i.imgur.com/dRgWMtP.jpg",
-			"name": "Yellow Dark Stripe AEX by Unfunny Guy",
-			"category": "Colorful,Custom Wallz,Dark"
-		},
-	  {		"author": "Designed by Custom Wallz",
- 			"url": "https://i.imgur.com/VsxqN0S.jpg",
- 			"thumbUrl": "https://i.imgur.com/VsxqN0S.jpg",
- 			"name": "Pixel Blue AEX by Unfunny Guy",
- 			"category": "Colorful,Custom Wallz,Dark"
-	        },
-	  {
-		        "author": "Designed by Krapk",
-		        "url": "https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
-		        "thumbUrl": "https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
-		        "name": "AEX Nougat Default",
-		        "category": "Dark"
-	        },
-	  {
-			"author": "Designed by ElDainosor",
-			"url": "https://i.imgur.com/CXN1yi9.jpg",
-			"thumbUrl": "https://i.imgur.com/yCB6Tb6.jpg",
-			"name": "AEX Minimalist Waves",
-			"category": "Colorful,Other,Dark"
-		},
-	  {
-			"author": "Designed by ElDainosor",
-			"url": "https://i.imgur.com/0iqymi6.jpg",
-			"thumbUrl": "https://i.imgur.com/3R4R5Xx.jpg",
-			"name": "Neon AEX",
-			"category": "Colorful,Other,Dark"
-		},
-		{	"author": "Designed by Custom Wallz",
-			"url": "https://i.imgur.com/XIaLVGQ.jpg",
-			"thumbUrl": "https://i.imgur.com/XIaLVGQ.jpg",
-			"name": "Mountain by hakrboy",
-			"category": "Custom Wallz,Dark"
-		 },
-		 { "author": "Designed by Custom Wallz",
-			 "url": "https://i.imgur.com/TbNdezQ.png",
-			 "thumbUrl": "https://i.imgur.com/TbNdezQ.png",
-			 "name": "AEX Metallic by Savio",
-			 "category": "Custom Wallz,Dark"
-			},
-			{ "author": "Designed by Custom Wallz",
-				"url": "https://i.imgur.com/C14K2Xn.png",
-				"thumbUrl": "https://i.imgur.com/C14K2Xn.png",
-				"name": "AEX Yellow Stripes 2 by Unfunny Guy",
-				"category": "Custom Wallz,Dark,Colorful"
-			},
-			{ "author": "Designed by Custom Wallz",
-				"url": "https://i.imgur.com/lweW16i.png",
-				"thumbUrl": "https://i.imgur.com/lweW16i.png",
-				"name": "AEX S** by Unfunny Guy",
-				"category": "Custom Wallz,Dark"
-			},
-			{ "author": "Designed by Custom Wallz",
-				"url": "https://i.imgur.com/uTMD0M2.png",
-				"thumbUrl": "https://i.imgur.com/uTMD0M2.png",
-				"name": "AEX S** 2 by Unfunny Guy",
-				"category": "Custom Wallz,Dark"
-			},
-			{ "author": "Designed by Custom Wallz",
-				"url": "https://i.imgur.com/aPQr4IZ.png",
-				"thumbUrl": "https://i.imgur.com/aPQr4IZ.png",
-				"name": "AEX Mat by Unfunny Guy",
-				"category": "Custom Wallz,Colorful"
-			},
-			{ "author": "Designed by Custom Wallz",
-				"url": "https://i.imgur.com/gp2gaOS.jpg",
-				"thumbUrl": "https://i.imgur.com/gp2gaOS.jpg",
-				"name": "AEX Dispersion by Savio",
-				"category": "Custom Wallz,Colorful"
-			},
-			{ "author": "Designed by Custom Wallz",
-				"url": "https://i.imgur.com/cCqsW6r.png",
-				"thumbUrl": "https://i.imgur.com/cCqsW6r.png",
-				"name": "AEX Dark by Savio",
-				"category": "Custom Wallz,Dark,Colorful"
-			},
-			{ "author": "Designed by Custom Wallz",
- 				"url": "https://i.imgur.com/6wiC5xu.png",
- 				"thumbUrl": "https://i.imgur.com/6wiC5xu.png",
-				"name": "AEX Dark 2 by Savio",
-				"category": "Custom Wallz,Colorful,Dark"
-			},
-			{ "author": "K_bij@y",
-				"url": "https://i.imgur.com/xa5mrzW.jpg",
-				"thumbUrl": "https://i.imgur.com/xa5mrzW.jpg",
-				"name": "AEX refreshed extended",
-				"category": "Colorful,Dark,Material"
-			},
-			{ "author": "K_bij@y",
-				"url": "https://i.imgur.com/U5uJTQg.jpg",
-				"thumbUrl": "https://i.imgur.com/U5uJTQg.jpg",
-				"name": "AEX refreshed red",
-				"category": "Colorful,Dark,Material"
-                        },
-			{ "author": "K_bij@y",
-				"url": "https://i.imgur.com/dUqHE39.png",
-				"thumbUrl": "https://i.imgur.com/dUqHE39.png",
-				"name": "AEX refreshed new",
-				"category": "Colorful,Dark,Material"
-                        },
-			{ "author": "K_bij@y",
-				"url": "https://i.imgur.com/S3CX1Ks.png",
-				"thumbUrl": "https://i.imgur.com/S3CX1Ks.png",
-				"name": "AEX refreshed shadow",
-				"category": "Dark,Material"
-                        },
-			{ "author": "K_bij@y",
-				"url": "https://i.imgur.com/B9o1Yu4.png",
-				"thumbUrl": "https://i.imgur.com/B9o1Yu4.png",
-				"name": "AEX refreshed accent",
-				"category": "Colorful,Dark,Material"
-                        },
-	     	       { "author": "Savio",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W9.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W9.png",
-				"name": "ExtendedWall 1",
-				"category": "Material"
-                        },
-                        { "author": "Savio",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W8.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W8.png",
-				"name": "ExtendedWall 2",
-				"category": "Material"
-                        },
-		        { "author": "Savio",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W3.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W3.png",
-				"name": "ExtendedWall 3",
-				"category": "Material"
-                        },
-                        { "author": "Savio",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W10.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W10.png",
-				"name": "ExtendedWall 4",
-				"category": "Material"
-                        },
-		        { "author": "Savio",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W1.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W1.png",
-				"name": "ExtendedWall 5",
-				"category": "Material"
-                        },
-		        { "author": "K_bij@y",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex1.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex1.png",
-				"name": "Extended Experience 1",
-				"category": "Colorful,Dark,Material"
-                        },
-		        { "author": "K_bij@y",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex2.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex2.png",
-				"name": "Extended Curve 1",
-				"category": "Colorful,Dark,Material"
-                        },
-		        { "author": "K_bij@y",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex3.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex3.png",
-				"name": "Extended Curve 2",
-				"category": "Colorful,Dark,Material"
-                        },
-		        { "author": "K_bij@y",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex4.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex4.png",
-				"name": "Extended Experience 2",
-				"category": "Colorful,Dark,Material"
-                        },
-		        { "author": "K_bij@y",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX6.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX6.png",
-				"name": "Buttoned AEX",
-				"category": "Colorful,Dark,Material"
-                        },
-		        { "author": "K_bij@y",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX55.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX55.png",
-				"name": "AEX in a BOX",
-				"category": "Colorful,Dark,Material"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%201.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%201.png",
-				"name": "Cheerful AEX 1",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20Logo%202.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20Logo%202.png",
-				"name": "Cheerful AEX 2",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20WAllpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20WAllpaper.png",
-				"name": "Punky AEX",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolour.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolour.png",
-				"name": "Cheerful AEX 3",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolourchange.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolourchange.png",
-				"name": "Cheerful AEX 4",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWpatttern123.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWpatttern123.png",
-				"name": "Cheerful AEX 5",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWsimple.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWsimple.png",
-				"name": "Cheerful AEX 6",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONopatttern.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONopatttern.png",
-				"name": "Cheerful AEX 7",
-				"category": "Colorful"
-                        },
-		        { "author": "Gagan Daywal",
-				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/aosp.png",
-				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/aosp.png",
-				"name": "Extra Cheerful AEX",
-				"category": "Colorful"
-                        }
-	]
+   "Categories":[
+      {
+         "name":"Light"
+      },
+      {
+         "name":"Dark"
+      },
+      {
+         "name":"Colorful"
+      },
+      {
+         "name":"SciFi"
+      },
+      {
+         "name":"Customworx"
+      },
+      {
+         "name":"Custom Wallz"
+      },
+      {
+         "name":"Material"
+      },
+      {
+         "name":"Poly"
+      },
+      {
+         "name":"Other"
+      }
+   ],
+   "Wallpapers":[
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%201.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%201.png",
+         "name":"Cheerful AEX 1",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20Logo%202.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20Logo%202.png",
+         "name":"Cheerful AEX 2",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20WAllpaper.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEX%20WAllpaper.png",
+         "name":"Punky AEX",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolour.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolour.png",
+         "name":"Cheerful AEX 3",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolourchange.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWcolourchange.png",
+         "name":"Cheerful AEX 4",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWpatttern123.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWpatttern123.png",
+         "name":"Cheerful AEX 5",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWsimple.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONEWsimple.png",
+         "name":"Cheerful AEX 6",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONopatttern.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/AEXLOGONopatttern.png",
+         "name":"Cheerful AEX 7",
+         "category":"Colorful"
+      },
+      {
+         "author":"Gagan Daywal",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/aosp.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/aosp.png",
+         "name":"Extra Cheerful AEX",
+         "category":"Colorful"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/xa5mrzW.jpg",
+         "thumbUrl":"https://i.imgur.com/xa5mrzW.jpg",
+         "name":"AEX refreshed extended",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/U5uJTQg.jpg",
+         "thumbUrl":"https://i.imgur.com/U5uJTQg.jpg",
+         "name":"AEX refreshed red",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/dUqHE39.png",
+         "thumbUrl":"https://i.imgur.com/dUqHE39.png",
+         "name":"AEX refreshed new",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/S3CX1Ks.png",
+         "thumbUrl":"https://i.imgur.com/S3CX1Ks.png",
+         "name":"AEX refreshed shadow",
+         "category":"Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/B9o1Yu4.png",
+         "thumbUrl":"https://i.imgur.com/B9o1Yu4.png",
+         "name":"AEX refreshed accent",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W9.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W9.png",
+         "name":"ExtendedWall 1",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W8.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W8.png",
+         "name":"ExtendedWall 2",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W3.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W3.png",
+         "name":"ExtendedWall 3",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W10.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W10.png",
+         "name":"ExtendedWall 4",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W1.png",
+         "name":"ExtendedWall 5",
+         "category":"Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex1.png",
+         "name":"Extended Experience 1",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex2.png",
+         "name":"Extended Curve 1",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex3.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex3.png",
+         "name":"Extended Curve 2",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex4.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex4.png",
+         "name":"Extended Experience 2",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX6.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX6.png",
+         "name":"Buttoned AEX",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX55.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX55.png",
+         "name":"AEX in a BOX",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"Designed by Krapk",
+         "url":"https://i.imgur.com/zp6BVMw.jpg",
+         "thumbUrl":"https://i.imgur.com/zp6BVMw.jpg",
+         "name":"Rocket",
+         "category":"SciFi,Colorful"
+      },
+      {
+         "author":"Designed by Adithya Jayan",
+         "url":"https://i.imgur.com/ac3XS3A.jpg",
+         "thumbUrl":"https://i.imgur.com/ac3XS3A.jpg",
+         "name":"Energy Blue",
+         "category":"Material"
+      },
+      {
+         "author":"Designed by Adithya Jayan",
+         "url":"https://i.imgur.com/HwgvVJs.jpg",
+         "thumbUrl":"https://i.imgur.com/HwgvVJs.jpg",
+         "name":"Energy Green",
+         "category":"Material"
+      },
+      {
+         "author":"Designed by Adithya Jayan",
+         "url":"https://i.imgur.com/pw1HrfR.jpg",
+         "thumbUrl":"https://i.imgur.com/pw1HrfR.jpg",
+         "name":"Energy Yellow",
+         "category":"Material"
+      },
+      {
+         "author":"Designed by Adithya Jayan",
+         "url":"https://i.imgur.com/gPCVPGJ.jpg",
+         "thumbUrl":"https://i.imgur.com/gPCVPGJ.jpg",
+         "name":"Energy Red",
+         "category":"Material"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/2SSzDG5.jpg",
+         "thumbUrl":"https://i.imgur.com/czjq5NN.png",
+         "name":"AEX Poly 7",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/LMqcmKr.jpg",
+         "thumbUrl":"https://i.imgur.com/Vg4oNWm.png",
+         "name":"AEX Poly 6",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/HAUDYhU.jpg",
+         "thumbUrl":"https://i.imgur.com/dfHcfay.png",
+         "name":"AEX Poly 5",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/gIiwCqg.jpg",
+         "thumbUrl":"https://i.imgur.com/wMsQL6P.png",
+         "name":"AEX Poly 4",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/h4Qnv5V.jpg",
+         "thumbUrl":"https://i.imgur.com/UIlmhnI.png",
+         "name":"AEX Poly 3",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/3dmT821.jpg",
+         "thumbUrl":"https://i.imgur.com/rBOMiFo.png",
+         "name":"AEX Poly 2",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/WO3vfxi.jpg",
+         "thumbUrl":"https://i.imgur.com/NBEqMIc.png",
+         "name":"AEX Poly",
+         "category":"Poly,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/P6zFHsX.png",
+         "thumbUrl":"https://i.imgur.com/Qf5uKCj.png",
+         "name":"AEX Grains 6",
+         "category":"Dark,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/5lBZdqO.png",
+         "thumbUrl":"https://i.imgur.com/QNQWe22.png",
+         "name":"AEX Grains 5",
+         "category":"Dark,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/5iY7EvI.png",
+         "thumbUrl":"https://i.imgur.com/OZdNrZX.png",
+         "name":"AEX Grains 4",
+         "category":"Dark,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/4QLZAXs.png",
+         "thumbUrl":"https://i.imgur.com/0VKto8H.png",
+         "name":"AEX Grains 3",
+         "category":"Dark,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/EFIznoEg.png",
+         "thumbUrl":"https://i.imgur.com/ngop8tY.png",
+         "name":"AEX Grains 2",
+         "category":"Dark,Customworx"
+      },
+      {
+         "author":"Designed by Customworx",
+         "url":"https://i.imgur.com/FHECAx5.png",
+         "thumbUrl":"https://i.imgur.com/IlrLfHf.png",
+         "name":"AEX Grains",
+         "category":"Light,Customworx"
+      },
+      {
+         "author":"Designed by Efren Rodriguez",
+         "url":"https://i.imgur.com/QgJWVtT.jpg",
+         "thumbUrl":"https://i.imgur.com/EgByOwm.jpg",
+         "name":"Material Blue",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Efren Rodriguez",
+         "url":"https://i.imgur.com/rPdvh8L.jpg",
+         "thumbUrl":"https://i.imgur.com/W6zqaqp.jpg",
+         "name":"Material Green",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Efren Rodriguez",
+         "url":"https://i.imgur.com/XRdMttz.jpg",
+         "thumbUrl":"https://i.imgur.com/jaWoQGC.jpg",
+         "name":"Material Red",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/jN4vCvU.png",
+         "thumbUrl":"https://i.imgur.com/swba6KE.png",
+         "name":"Violet Glaze",
+         "category":"Colorful,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/TESuw98.png",
+         "thumbUrl":"https://i.imgur.com/TqxkuHb.png",
+         "name":"Black Glaze",
+         "category":"Colorful,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/REvmhw7.png",
+         "thumbUrl":"https://i.imgur.com/FMNqTB7.png",
+         "name":"Green Glaze",
+         "category":"Colorful,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/Hz60zzX.png",
+         "thumbUrl":"https://i.imgur.com/8whRKmF.png",
+         "name":"Blue Glaze",
+         "category":"Colorful,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/aibjtVr.png",
+         "thumbUrl":"https://i.imgur.com/8GOECcy.png",
+         "name":"Red Glaze",
+         "category":"Colorful,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/VFqB2Jn.png",
+         "thumbUrl":"https://i.imgur.com/grdp4nT.png",
+         "name":"Purple Glaze",
+         "category":"Colorful,Dark"
+      },
+      {
+         "author":"Designed by Rogerio Oliveira",
+         "url":"https://i.imgur.com/KkoJuCX.jpg",
+         "thumbUrl":"https://i.imgur.com/at36Ule.jpg",
+         "name":"Translucent Glass",
+         "category":"Other"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/hG67IUW.jpg",
+         "thumbUrl":"https://i.imgur.com/2yLtMBR.jpg",
+         "name":"Neon Bubbles Black",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/0TfIcaH.jpg",
+         "thumbUrl":"https://i.imgur.com/zUAkpQS.jpg",
+         "name":"Neon Bubbles Gray",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Bad Boy",
+         "url":"https://i.imgur.com/SyY3gEa.png",
+         "thumbUrl":"https://i.imgur.com/SyY3gEa.png",
+         "name":"Material Blue",
+         "category":"Material,Colorful"
+      },
+      {
+         "author":"Designed by Gabriel Bercelli",
+         "url":"https://i.imgur.com/oDKlOEQ.jpg",
+         "thumbUrl":"https://i.imgur.com/RPgYoow.jpg",
+         "name":"Material Park",
+         "category":"Material,Colorful"
+      },
+      {
+         "author":"Designed by Gabriel Bercelli",
+         "url":"https://i.imgur.com/F9lcjcn.png",
+         "thumbUrl":"https://i.imgur.com/hBCt6ds.png",
+         "name":"Bubbles",
+         "category":"Colorful"
+      },
+      {
+         "author":"Designed by Gabriel Bercelli",
+         "url":"https://i.imgur.com/DsAQI2x.png",
+         "thumbUrl":"https://i.imgur.com/Al1ipUF.png",
+         "name":"Moon",
+         "category":"Dark,SciFi"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/EQuFOK7.png",
+         "thumbUrl":"https://i.imgur.com/bKp5LeN.png",
+         "name":"Day",
+         "category":"Light"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/C6n94QW.png",
+         "thumbUrl":"https://i.imgur.com/UeSHEdP.png",
+         "name":"PC",
+         "category":"Colorful,SciFi"
+      },
+      {
+         "author":"Designed by Krapk",
+         "url":"https://i.imgur.com/7B9IOEy.png",
+         "thumbUrl":"https://i.imgur.com/7b3dekf.png",
+         "name":"Pitch Black",
+         "category":"Dark,Material"
+      },
+      {
+         "author":"Designed by Gabriel Bercelli",
+         "url":"https://i.imgur.com/aXy9xEH.png",
+         "thumbUrl":"https://i.imgur.com/Ccpy7Th.png",
+         "name":"Starwars",
+         "category":"SciFi,Light"
+      },
+      {
+         "author":"Designed by Krapk",
+         "url":"https://i.imgur.com/gKXQkoF.jpg",
+         "thumbUrl":"https://i.imgur.com/9FPQNf3.jpg",
+         "name":"Watchdog",
+         "category":"SciFi,Dark"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/CSqjiWI.png",
+         "thumbUrl":"https://i.imgur.com/W9Jt73h.png",
+         "name":"Alien",
+         "category":"SciFi,Colorful"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/QQPJHQY.jpg",
+         "thumbUrl":"https://i.imgur.com/QQPJHQY.jpg",
+         "name":"AEX Pink",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/rEQPpkD.jpg",
+         "thumbUrl":"https://i.imgur.com/rEQPpkD.jpg",
+         "name":"AEX Yellow",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/f6gS0Ke.jpg",
+         "thumbUrl":"https://i.imgur.com/f6gS0Ke.jpg",
+         "name":"AEX Red",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/7W19bs0.jpg",
+         "thumbUrl":"https://i.imgur.com/7W19bs0.jpg",
+         "name":"AEX iBlue",
+         "category":"Material,Dark"
+      },
+      {
+         "author":"Designed by Azeem Shaikh",
+         "url":"https://i.imgur.com/lpWbfut.jpg",
+         "thumbUrl":"https://i.imgur.com/lpWbfut.jpg",
+         "name":"Iron Man",
+         "category":"SciFi"
+      },
+      {
+         "author":"Designed by Bad Boy",
+         "url":"https://i.imgur.com/xhynZmh.png",
+         "thumbUrl":"https://i.imgur.com/xhynZmh.png",
+         "name":"Logo Remake Blue",
+         "category":"Colorful"
+      },
+      {
+         "author":"Designed by Bad Boy",
+         "url":"https://i.imgur.com/8paBKoN.png",
+         "thumbUrl":"https://i.imgur.com/8paBKoN.png",
+         "name":"Logo Remake Dark Red",
+         "category":"Colorful"
+      },
+      {
+         "author":"Designed by Bad Boy",
+         "url":"https://i.imgur.com/mjJAgBj.png",
+         "thumbUrl":"https://i.imgur.com/mjJAgBj.png",
+         "name":"Logo Remake Red",
+         "category":"Colorful"
+      },
+      {
+         "author":"Designed by Bad Boy",
+         "url":"https://i.imgur.com/SIHNVGp.png",
+         "thumbUrl":"https://i.imgur.com/SIHNVGp.png",
+         "name":"Logo Remake Dark Blue",
+         "category":"Colorful"
+      },
+      {
+         "author":"Designed by Hamza Badar",
+         "url":"https://i.imgur.com/KM62sO5.png",
+         "thumbUrl":"https://i.imgur.com/KM62sO5.png",
+         "name":"AEX Moon Light",
+         "category":"Dark"
+      },
+      {
+         "author":"Designed by Imam Nurcholis",
+         "url":"https://image.ibb.co/cc8uTQ/1497421690_picsay.jpg",
+         "thumbUrl":"https://image.ibb.co/cc8uTQ/1497421690_picsay.jpg",
+         "name":"AEX black n blue",
+         "category":"Dark"
+      },
+      {
+         "author":"Designed by Bad Boy",
+         "url":"https://i.imgur.com/lFDNdpj.png",
+         "thumbUrl":"https://i.imgur.com/lFDNdpj.png",
+         "name":"Material Brown",
+         "category":"Colorful,Material"
+      },
+      {
+         "author":"Designed by Renan Lopes",
+         "url":"https://i.imgur.com/L76xfkA.png",
+         "thumbUrl":"https://i.imgur.com/nZepzfI.png",
+         "name":"German Soldier",
+         "category":"Light"
+      },
+      {
+         "author":"Designed by ishubhamsingh",
+         "url":"https://i.imgur.com/qA8wox8.png",
+         "thumbUrl":"https://i.imgur.com/73vUodT.png",
+         "name":"ArtWork",
+         "category":"Dark,Other"
+      },
+      {
+         "author":"Designed by ishubhamsingh",
+         "url":"https://image.ibb.co/mct8sa/AEX_black_red.png",
+         "thumbUrl":"https://image.ibb.co/mct8sa/AEX_black_red.png",
+         "name":"Minimal AEX",
+         "category":"Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://image.ibb.co/iNOB8Q/AEX_Finals.jpg",
+         "thumbUrl":"https://image.ibb.co/iNOB8Q/AEX_Finals.jpg",
+         "name":"AEX Finals by Biplov",
+         "category":"Neon,Dark,Custom Wallz"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://image.ibb.co/ioWnhk/GLOW_ify_AEX.jpg",
+         "thumbUrl":"https://image.ibb.co/ioWnhk/GLOW_ify_AEX.jpg",
+         "name":"GLOW-ify AEX by Biplov",
+         "category":"Neon,Dark,Custom Wallz"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://image.ibb.co/m5GL2k/AEX_Neon.jpg",
+         "thumbUrl":"https://image.ibb.co/m5GL2k/AEX_Neon.jpg",
+         "name":"AEX Neon by Savio",
+         "category":"Neon,Dark,Custom Wallz"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/PM2ybbf.jpg",
+         "thumbUrl":"https://i.imgur.com/PM2ybbf.jpg",
+         "name":"Saffron Extended by Savio",
+         "category":"Colorful,Custom Wallz"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/TJYOmeW.jpg",
+         "thumbUrl":"https://i.imgur.com/TJYOmeW.jpg",
+         "name":"Blue Extended by Savio",
+         "category":"Colorful,Custom Wallz"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/PClNRIr.jpg",
+         "thumbUrl":"https://i.imgur.com/PClNRIr.jpg",
+         "name":"Green Extended by Savio",
+         "category":"Colorful,Custom Wallz"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/7AJrnyj.jpg",
+         "thumbUrl":"https://i.imgur.com/7AJrnyj.jpg",
+         "name":"AEX xBlue 2 by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/bnt8HY7.jpg",
+         "thumbUrl":"https://i.imgur.com/bnt8HY7.jpg",
+         "name":"AEX B&W by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/XgRXCvY.jpg",
+         "thumbUrl":"https://i.imgur.com/XgRXCvY.jpg",
+         "name":"Red Dark Stripe AEX by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/gK8WqAl.jpg",
+         "thumbUrl":"https://i.imgur.com/gK8WqAl.jpg",
+         "name":"AEX Dark by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/MMsfd7V.jpg",
+         "thumbUrl":"https://i.imgur.com/MMsfd7V.jpg",
+         "name":"AEX Dark 2 by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/tEdtUKT.jpg",
+         "thumbUrl":"https://i.imgur.com/tEdtUKT.jpg",
+         "name":"AEX Dark 3 by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/SCT6N2F.jpg",
+         "thumbUrl":"https://i.imgur.com/SCT6N2F.jpg",
+         "name":"AEX xBlue by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/dRgWMtP.jpg",
+         "thumbUrl":"https://i.imgur.com/dRgWMtP.jpg",
+         "name":"Yellow Dark Stripe AEX by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/VsxqN0S.jpg",
+         "thumbUrl":"https://i.imgur.com/VsxqN0S.jpg",
+         "name":"Pixel Blue AEX by Unfunny Guy",
+         "category":"Colorful,Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Krapk",
+         "url":"https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AospExtended/platform_vendor_aosp/7.x/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png",
+         "name":"AEX Nougat Default",
+         "category":"Dark"
+      },
+      {
+         "author":"Designed by ElDainosor",
+         "url":"https://i.imgur.com/CXN1yi9.jpg",
+         "thumbUrl":"https://i.imgur.com/yCB6Tb6.jpg",
+         "name":"AEX Minimalist Waves",
+         "category":"Colorful,Other,Dark"
+      },
+      {
+         "author":"Designed by ElDainosor",
+         "url":"https://i.imgur.com/0iqymi6.jpg",
+         "thumbUrl":"https://i.imgur.com/3R4R5Xx.jpg",
+         "name":"Neon AEX",
+         "category":"Colorful,Other,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/XIaLVGQ.jpg",
+         "thumbUrl":"https://i.imgur.com/XIaLVGQ.jpg",
+         "name":"Mountain by hakrboy",
+         "category":"Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/TbNdezQ.png",
+         "thumbUrl":"https://i.imgur.com/TbNdezQ.png",
+         "name":"AEX Metallic by Savio",
+         "category":"Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/C14K2Xn.png",
+         "thumbUrl":"https://i.imgur.com/C14K2Xn.png",
+         "name":"AEX Yellow Stripes 2 by Unfunny Guy",
+         "category":"Custom Wallz,Dark,Colorful"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/lweW16i.png",
+         "thumbUrl":"https://i.imgur.com/lweW16i.png",
+         "name":"AEX S** by Unfunny Guy",
+         "category":"Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/uTMD0M2.png",
+         "thumbUrl":"https://i.imgur.com/uTMD0M2.png",
+         "name":"AEX S** 2 by Unfunny Guy",
+         "category":"Custom Wallz,Dark"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/aPQr4IZ.png",
+         "thumbUrl":"https://i.imgur.com/aPQr4IZ.png",
+         "name":"AEX Mat by Unfunny Guy",
+         "category":"Custom Wallz,Colorful"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/gp2gaOS.jpg",
+         "thumbUrl":"https://i.imgur.com/gp2gaOS.jpg",
+         "name":"AEX Dispersion by Savio",
+         "category":"Custom Wallz,Colorful"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/cCqsW6r.png",
+         "thumbUrl":"https://i.imgur.com/cCqsW6r.png",
+         "name":"AEX Dark by Savio",
+         "category":"Custom Wallz,Dark,Colorful"
+      },
+      {
+         "author":"Designed by Custom Wallz",
+         "url":"https://i.imgur.com/6wiC5xu.png",
+         "thumbUrl":"https://i.imgur.com/6wiC5xu.png",
+         "name":"AEX Dark 2 by Savio",
+         "category":"Custom Wallz,Colorful,Dark"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/xa5mrzW.jpg",
+         "thumbUrl":"https://i.imgur.com/xa5mrzW.jpg",
+         "name":"AEX refreshed extended",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/U5uJTQg.jpg",
+         "thumbUrl":"https://i.imgur.com/U5uJTQg.jpg",
+         "name":"AEX refreshed red",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/dUqHE39.png",
+         "thumbUrl":"https://i.imgur.com/dUqHE39.png",
+         "name":"AEX refreshed new",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/S3CX1Ks.png",
+         "thumbUrl":"https://i.imgur.com/S3CX1Ks.png",
+         "name":"AEX refreshed shadow",
+         "category":"Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://i.imgur.com/B9o1Yu4.png",
+         "thumbUrl":"https://i.imgur.com/B9o1Yu4.png",
+         "name":"AEX refreshed accent",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W9.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W9.png",
+         "name":"ExtendedWall 1",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W8.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W8.png",
+         "name":"ExtendedWall 2",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W3.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W3.png",
+         "name":"ExtendedWall 3",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W10.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W10.png",
+         "name":"ExtendedWall 4",
+         "category":"Material"
+      },
+      {
+         "author":"Savio",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers/master/W1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Savio/W1.png",
+         "name":"ExtendedWall 5",
+         "category":"Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex1.png",
+         "name":"Extended Experience 1",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex2.png",
+         "name":"Extended Curve 1",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex3.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex3.png",
+         "name":"Extended Curve 2",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex4.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/aex4.png",
+         "name":"Extended Experience 2",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX6.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX6.png",
+         "name":"Buttoned AEX",
+         "category":"Colorful,Dark,Material"
+      },
+      {
+         "author":"K_bij@y",
+         "url":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX55.png",
+         "thumbUrl":"https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Bijoy/AEX55.png",
+         "name":"AEX in a BOX",
+         "category":"Colorful,Dark,Material"
+      }
+   ]
 }
